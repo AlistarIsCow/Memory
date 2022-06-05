@@ -1,0 +1,26 @@
+login1 przegral z Gracz nr 2 w czasie 13 sekund.
+login1 zremisowal z Gracz nr 2 po czasie 13 sekund.
+login1 pokonal Gracz nr 2 w czasie 14 sekund.
+login1 zremisowal z Gracz nr 2 po czasie 17 sekund.
+login1 pokonal Gracz nr 2 w czasie 15 sekund.
+login1 przegral z Gracz nr 2 w czasie 27 sekund.
+login1 zremisowal z Gracz nr 2 po czasie 22 sekund.
+login1 przegral z Gracz nr 2 w czasie 26 sekund.
+login1 pokonal Bot w czasie 38 sekund.
+login1 zremisowal z Bot po czasie 98 sekund.
+login1 zremisowal z Bot po czasie 13 sekund.
+login1 pokonal Bot w czasie 14 sekund.
+login1 pokonal Bot w czasie 21 sekund.
+login1 pokonal Bot w czasie 60 sekund.
+login1 pokonal Bot w czasie 23 sekund.
+login1 pokonal Bot w czasie 13 sekund.
+login1 pokonal Bot w czasie 12 sekund.
+login1 pokonal Gracz nr 2 w czasie 10 sekund.
+login1 pokonal Bot w czasie 17 sekund.
+login1 zremisowal z Gracz nr 2 po czasie 12 sekund.
+login1 pokonal Gracz nr 2 w czasie 16 sekund.
+login1 pokonal Bot w czasie 16 sekund.
+login1 zremisowal z Gracz nr 2 po czasie 11 sekund.
+login1 przegral z Gracz nr 2 w czasie 27 sekund.
+login1 zremisowal z Gracz nr 2 po czasie 46 sekund.
+login1 pokonal Bot w czasie 50 sekund.
